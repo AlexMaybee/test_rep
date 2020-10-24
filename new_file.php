@@ -7,3 +7,5 @@
  */
 
 echo __FILE__;
+
+echo 2222;
